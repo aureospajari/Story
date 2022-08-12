@@ -1,2 +1,2 @@
-Aqui inicio meus estudos de Git/Github.
-Teste.
+Here I start studying Git/Github.
+Test.
